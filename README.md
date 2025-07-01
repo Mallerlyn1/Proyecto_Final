@@ -6,5 +6,5 @@ Integrantes:
 
 -Daniel Barrionuevo
 
--Mallerylin Linares
+-Mallerlyn Linares
 
